@@ -1,0 +1,29 @@
+h1{
+    color: rgb(3, 179, 3)
+}
+p{
+    color: orange
+}
+p{
+    font-size: 25px;\
+    font-family:Arial, Helvetica, sans-serif;
+}
+u{
+    color:aqua
+}
+strong{
+    color: blueviolet;
+    font-style:italic;
+}
+body{
+    background-color: lightgray
+}
+ul{
+list-style-type-: square;
+}
+li{
+    border: 1px solid black;
+    padding: 7px;
+    color: white;
+}
+a
